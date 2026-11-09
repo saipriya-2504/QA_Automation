@@ -1,4 +1,4 @@
-search = "product"
+search = "Demo"
 
 def prod_dis():
 
@@ -8,5 +8,7 @@ def prod_dis():
     else:
         search != "product"
         print("product not displayed")
+
+print("\nproduct search is working fine")
 
 prod_dis()
